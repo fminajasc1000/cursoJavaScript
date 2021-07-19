@@ -76,3 +76,7 @@ x = 2+4+nombre;
 console.log(x);
 
 //declaracion de variables javascript
+let nombres = "Juan";
+console.log(nombres);
+
+const apellidos = "Perez";
