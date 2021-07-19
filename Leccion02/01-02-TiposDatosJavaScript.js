@@ -1,8 +1,11 @@
-//mejores practicas para los nombre sde variables
-let nombreCompleto = "Danae Lozada Alfaro";
-console.log( nombreCompleto );
+let nombreCompleto = "Juan Perez";
+let nombrecompleto = "Carlos Lara";
+console.log(nombreCompleto);
+console.log(nombrecompleto);
 
-let x, y;
-x=10, y=20;
-let z = x + y;
-console.log( z );
+let a1nombreCompleto;
+let _nombreCompleto;
+let $nombreCompleto;
+//let 1nombreCompleto; no esta permitido iniciar el nombre de una varuable con numero
+
+let ruptura = 10;
