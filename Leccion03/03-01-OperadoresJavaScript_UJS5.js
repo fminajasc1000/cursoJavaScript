@@ -19,3 +19,7 @@ if(vacaciones || diaDescanso){
 
 let resultado = (1>2)?"Verdadero":"Falso";
 console.log(resultado);
+
+let numero = 110;
+resultado = (numero % 2 == 0)?"Par":"Impar";
+console.log(resultado);
