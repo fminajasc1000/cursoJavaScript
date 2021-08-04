@@ -40,7 +40,7 @@ if( hora >= 6 && hora <= 11){
     estado = "Buenas tardes";
 }else if(hora >= 19 && hora <= 24){
     estado == "Buenas noches";
-}else if(hora >= 0 && hora <= 6){
+}else if(hora >= 0 && hora < 6){
     estado == "Durmiendo";
 }else{
     estado = "Valor incorrecto";
