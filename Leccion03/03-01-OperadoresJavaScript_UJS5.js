@@ -16,3 +16,6 @@ if(vacaciones || diaDescanso){
 }else{
     console.log("Padre ocupado");
 }
+
+let resultado = (1>2)?"Verdadero":"Falso";
+console.log(resultado);
